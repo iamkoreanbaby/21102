@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>웨어러블 컴퓨터 경진대회</title>
+    <style>
+
+
+       
+        .header{
+        position:fixed;
+        width:100%;
+        font-weight: bold;
+        background-color:white;
+        font-size:15pt;
+        }
+        .menu{
+            text-align: center;
+        }
+
+        .menu ul{
+            margin: auto;
+            display: inline-block;
+        }
+
+        .menu li{list-style:none;
+                margin-left : 5px;
+                margin-bottom : 10px;
+                float:left;
+                padding-left: 11%;
+                }
+        
+        
+
+    </style>
+</head>
+<body>
+    <div id="head">
+        
+        <header class = "header">
+            <h1 align = "center" >2024 제 16회 웨어러블 컴퓨터 경진대회</h1>
+
+            <div style="text-align : center;background-color:#cae1fc;">
+                <img src="웨어러블사진.png" alt="경진대회 이미지" width="21.3%"/>
+                <img src="웨어러블.png" alt="경진대회 이미지" width="30%"/>
+                <img src="웨어러브사진2.jpg" alt="경진대회 이미지" width="24.4%"/>
+            
+            </div>
+
+            <ul class = "menu">
+                <li><a href="#">공지사항</a></li>
+                <li><a href="#">자유게시판</a></li>
+                <li><a href="#">참가접수</a></li>
+                <li><a href="https://thinkyou.co.kr/contest/">대회 목록</a></li>
+                <li><a href="#">길찾기</a></li>
+            </ul>
+		</header>
+        <br><br><br>
+        
+        
+	
+	</div>
+    <br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br>
+        
+    
+    <nav><p>
+        <h2 align = "center">-대회 내용-</h2>
+    </p>
+    <p align = "center">제시된 미션 중 한 가지를 고랄 입는 컴퓨터를 직접 제작<br>
+        본선 진출 팀에게는 시작품 제작비 100만원 지원<br>
+        참가접수 기간 : 4.31 ~ 5.31</p>
+    </nav>
+    <tr>
+        <h2 align = "center">-대회 미션-</h2>
+        <li align = "center">문화 : 문화생활을 즐기기 위한 웨어러블 컴퓨터</li>
+        <li align = "center">교육 : 교육시장에서 사용될 웨어러블 컴퓨터</li>
+        <li align = "center">건강 : 건강관리를 위한 웨어러블 컴퓨터</li>
+    </tr>
+    
+    <h2 align = "center">-상금 안내-</h2>
+
+    <table style="width:30%" >
+        <style>
+            table, th, td {	border: 1px solid black; border-collapse: collapse }
+            table, th, td { text-align: center; }
+            table, th, td { margin-left: auto;
+                            margin-right: auto;}
+        </style>
+        <ui>
+            <tr>
+                <td>순위</td>
+                <td>상금</td>	
+            </tr>
+            <tr>
+                <td>대상</td>
+                <td>500만원</td>	
+            </tr>
+            <tr>
+                <td>최우수상</td>
+                <td>200만원</td>	
+            </tr>
+            <tr>
+                <td>우수상</td>
+                <td>200만원</td>	
+            </tr>
+        </ui>  
+	</table>
+    
+</body>
+</html>
